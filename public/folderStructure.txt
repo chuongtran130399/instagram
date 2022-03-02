@@ -1,0 +1,16 @@
+// client side rendered app: react(cra)
+  // -> database Firebase
+  // -> react-loading-skeleton
+  // tailwind css
+
+// folder structure
+  //src
+    // -> components, 
+    // -> constants, 
+    // -> context, 
+    // -> helpers, 
+    // -> pages,
+    // -> hooks,
+    // -> libs(firebase), 
+    // -> services(firebase functions)
+    // -> styles (tailwind.cc(app/tailwind))
