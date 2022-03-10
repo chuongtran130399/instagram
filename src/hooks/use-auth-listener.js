@@ -19,7 +19,7 @@ const useAuthListener = () => {
         localStorage.removeItem("authUser");
         setUser(null);
       }
-      // console.log('authUser', authUser)
+     
     });
 
     return () => listener();

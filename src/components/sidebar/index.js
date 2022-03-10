@@ -9,7 +9,7 @@ const Sidebar = () => {
     user: { docId, fullName, username, userId, following },
   } = useUser();
 
-  console.log("following", following);
+  
   return (
     <div>
       <User username={username} fullName={fullName} following={following}/>
